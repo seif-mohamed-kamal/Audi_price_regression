@@ -158,7 +158,6 @@ flowchart LR
 
 ## Model Comparison Diagram
 
-```mermaid
 barChart
     title Model Performance Comparison
     x-axis [Simple Linear, Multiple Linear]
